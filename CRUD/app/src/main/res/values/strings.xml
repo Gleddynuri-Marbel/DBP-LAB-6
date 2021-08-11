@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prueba de Colores</string>
+    <string name="txt_codigo">Codigo del Producto</string>
+    <string name="txt_descripcion">Descripcion del Producto</string>
+    <string name="txt_precio">Precio del Producto</string>
+    <string name="BotonRegistrar">Registrar Producto</string>
+    <string name="Boton_Buscar">Buscar Producto</string>
+    <string name="Boton_Eliminar">Eliminar Producto</string>
+    <string name="BotonModificar">Modificar Producto</string>
+
+</resources>
